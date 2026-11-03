@@ -5,3 +5,19 @@ body{
     color: azure;
     margin: 0;
 }
+
+/*tirar as bordas "de planilha"*/
+table, td{
+    border: none;
+    border-collapse: collapse;
+}
+
+/*títulos com a cor da loja*/
+h1, h2 {color: blue;}
+
+/*links sem sublinhado*/
+a {
+    color: crimson;
+    text-decoration: none;
+    font-weight: bold;
+}
