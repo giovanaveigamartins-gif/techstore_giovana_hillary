@@ -168,7 +168,7 @@ h3 {
 
 h2 + table td p {
   margin: 4px 0;                              /* aproxima os parágrafos dentro do cartão */
-  color: #6e6987;                             /* descrição em cinza, menos destaque que o nome */
+  color: #9a93bd;                             /* descrição em cinza, menos destaque que o nome */
 }
 
 h2 + table td p:last-child {
